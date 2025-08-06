@@ -12,5 +12,5 @@ java Server
 ```
 E em outro digite:
 ``` bash
-javac Client
+java Client
 ```
