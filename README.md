@@ -3,11 +3,11 @@ Atividade de introdução a conectividade
 
 
 
-## Aula 2:
+## Aula 1 ssh:
   * Client.java
   * Server.java
 
 
-## Aula 2:
+## Aula 2 ssh:
   * ClienteSSH.java
   * ServidorSSH.java
